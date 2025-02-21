@@ -8,7 +8,7 @@ function App() {
   const cards = Array.from({ length: 10 });
   const gridStyle = {
     display: 'grid',
-    gridTemplateColumns: 'repeat(4, 1fr)',
+    gridTemplateColumns: 'repeat(1, 1fr)',
     gap: '16px',
     padding: '16px',
   };
